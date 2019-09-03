@@ -1,8 +1,8 @@
 
 // Start Game
 
-const WINDOW_WIDTH = 700;
-const WINDOW_HEIGHT = 500;
+const WINDOW_WIDTH = 1000;
+const WINDOW_HEIGHT = 600;
 const FRAMES_PER_SECOND = 60;
 
 let game = new Game(WINDOW_WIDTH,WINDOW_HEIGHT,document.querySelector('canvas'));
